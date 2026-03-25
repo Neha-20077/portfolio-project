@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background-color: pink;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+form {
+    margin: 20px;
+}
+
+input, textarea {
+    padding: 10px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: pink;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
